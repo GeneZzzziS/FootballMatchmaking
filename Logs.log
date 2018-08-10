@@ -1,0 +1,26 @@
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 10 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:72) - [Server] type: 1682514555
+ERROR 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:93) - Чтение после конца потока невозможно.
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:72) - [Server] type: 0
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:75) - [Server] message read
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:86) - [Server] Message id : 0
+INFO 10 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:72) - [Server] type: 1
+INFO 10 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:75) - [Server] message read
+INFO 10 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:86) - [Server] Message id : 1
+ERROR 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:93) - Не удалось привести тип объекта "FootballServer.Models.Message`1[FootballServer.Models.Player]" к типу "FootballServer.Models.Requests.ValueRequest`1[System.String]".
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 57d379e0-37d1-4a22-a7ad-07f0f10563ab from Ars to Ars created
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 3
+ERROR 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:114) - Invite  on accept doesn't exist
