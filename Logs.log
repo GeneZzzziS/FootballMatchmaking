@@ -24,3 +24,290 @@ INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs
 INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
 INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 3
 ERROR 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:114) - Invite  on accept doesn't exist
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 15 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 15 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 15 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 6dd14c94-ba6f-41db-903c-25291dabeb85 from Ars to Ars created
+INFO 14 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 14 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 14 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 3
+ERROR 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:114) - Invite  on accept doesn't exist
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:240) - [Server] Invite from Ars to Ars deleted
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 0aca1582-045d-46a7-a03a-cfdec286a7da from Ars to Ars created
+INFO 16 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 16 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 16 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 10 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 256c9b33-cbcb-456f-8b9c-a8e0d3ecf68a from Ars to Ars created
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:240) - [Server] Invite from Ars to Ars deleted
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 16 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 16 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 16 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:240) - [Server] Invite from Ars to Ars deleted
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 14 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 14 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 14 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 13 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 13 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 13 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 15 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite a2bc64df-5ad5-4d8d-bd3b-6b2b4ce90eed from Ars to Ars created
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:240) - [Server] Invite from Ars to Ars deleted
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 14 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite fabaed17-82ef-47e9-97e8-89ce914b387e from Ars to Ars created
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 16 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 16 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 16 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 14 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 62643d6d-f7ac-460a-99d0-d5450cd61d86 from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite c4483283-0798-4c61-a0ee-f0bb94c10fe8 from Ars to Ars created
+INFO 4 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:240) - [Server] Invite from Ars to Ars deleted
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 16 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 683a77ae-bbd5-4ca7-88e4-32d00178215a from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 13 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 6c98c863-6d3c-4bab-8a80-fbe4a3291287 from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite a3c2d10d-ed5c-475f-b728-d3392801e42e from Ars to Ars created
+INFO 4 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:240) - [Server] Invite from Ars to Ars deleted
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 4 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1
+INFO 4 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2
+INFO 4 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 6254d9eb-df1b-4e77-b95d-39055f412702 from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 1
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 2
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite c668e898-b33d-449b-b0e8-9225b89389ca from Ars to Ars created
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 2
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 9ca2c4d6-9ef5-4af1-9e0b-f4ab87a4c402 from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1, 61
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 2
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2, 61
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 665d486b-fb24-4acc-8363-18763ffb6cda from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 1
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1, 61
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 2
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2, 61
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 166ab397-5d2e-4cd4-b8eb-e6147fde3ace from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 12 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1, 61
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 2
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2, 61
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 454ef7a0-f9cd-48a0-8b5e-13ca2393c21b from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 1
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1, 61
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 2
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2, 61
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 17a646f3-7448-4007-a734-32e8fe9d3679 from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1, 61
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 2
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2, 61
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite ab1c7e24-3728-47dc-a2cf-fd99ebc8f188 from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 5 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 1
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1, 61
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) - id 2
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2, 61
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 02cd5b6f-43c2-4e8d-912f-4e33404354bd from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) -  NOT VALUE REQUEST id 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1, 61
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) -  NOT VALUE REQUEST id 2
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2, 61
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 0f3ab230-4130-4f26-9744-80c8856b8a3e from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) -  NOT VALUE REQUEST id 1
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1, 61
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) -  NOT VALUE REQUEST id 2
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2, 61
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 5097b6fa-68ce-4e46-9403-78198350c06b from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) -  NOT VALUE REQUEST id 1
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1, 61
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) -  NOT VALUE REQUEST id 2
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2, 61
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite 3172668b-9618-417f-86d0-a85e95cf9ae9 from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 7 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) -  NOT VALUE REQUEST id 1
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1, 61
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Models\Message.cs:20) -  NOT VALUE REQUEST id 2
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2, 61
+INFO 6 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite a067d163-6351-42a1-954f-cbfff6411696 from Ars to Ars created
+INFO 1 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:219) - [Server] Started
+INFO 9 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:43) - [Server] Client has connected
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 0
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 8 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 0
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] type: 1
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:73) - [Server] message read
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:103) - [Server] Message id : 1
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 1, 57
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Server.cs:142) - Send mes id 2, 57
+INFO 11 (D:\workspace\FootballMatchmaking\FootballServer\FootballServer\Program.cs:61) - [Server] Invite d27cb0bf-32e4-451c-b959-0f67fa4b42d6 from Ars to Ars created
